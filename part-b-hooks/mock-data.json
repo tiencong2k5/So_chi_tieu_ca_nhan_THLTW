@@ -1,0 +1,37 @@
+[
+  {
+    "id": "e15cb23b-0e0f-46eb-8abd-6b4dec273deb",
+    "description": "Xôi sáng",
+    "amount": 10000,
+    "category": "Ăn uống",
+    "date": "2026-11-26"
+  },
+  {
+    "id": "sample-1",
+    "description": "Bữa trưa văn phòng",
+    "amount": 65000,
+    "category": "Ăn uống",
+    "date": "2026-11-26"
+  },
+  {
+    "id": "sample-2",
+    "description": "Vé xe buýt tháng",
+    "amount": 200000,
+    "category": "Đi lại",
+    "date": "2026-11-26"
+  },
+  {
+    "id": "sample-3",
+    "description": "Sách thiết kế",
+    "amount": 145000,
+    "category": "Học tập",
+    "date": "2026-11-26"
+  },
+  {
+    "id": "sample-4",
+    "description": "Vé xem phim",
+    "amount": 90000,
+    "category": "Giải trí",
+    "date": "2026-11-26"
+  }
+]
